@@ -2,7 +2,7 @@
 
 ## ✏️ About:
 
-In this project styles are programmatically applyed to create a dynamic page. This page contains two eyes and each eye will move its pupil following the mouse movement. 
+This is a project where styles are programmatically applied to create a dynamic page. In this page you will see two eyes, and each eye will move its pupil following the mouse movement.
 
 This project was developed as part of the activities of the "Profesional Certificate in Coding: Fullstack Development with MERN - The Massachusetts Institute of Thechnology" course.   
 
