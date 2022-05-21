@@ -11,15 +11,15 @@ This project was developed as part of the activities of the "Profesional Certifi
 1. If you want to run this project locally, clone it on your machine. Then drag and drop the HTML file into the browser.
 Otherwise click on the project demo to open the project on the borwser.
 
-2. Move the mouse over the screen to see the eyes movement.
+2. Move the mouse over the screen to see the eyes chasing the .
 
 
 ## 🚀 Improvements:
 
-For future improvementes these could be implemented:
-- [ ] .
-- [ ] . 
-- [ ] .  
+For future improvementes the following could be implemented:
+
+- [ ] Give the user the option to select emotions. 
+- [ ] Add eyebrows to the eyes, so the user can see the emotions they selected.  
 
 
 ## 🔑 License information: 
