@@ -16,7 +16,7 @@ Otherwise click on the project demo to open the project on the borwser.
 
 ## 🚀 Improvements:
 
-For future improvementes the following could be implemented:
+For future improvementes the following features could be implemented:
 
 - [ ] Give the user the option to select emotions. 
 - [ ] Add eyebrows to the eyes, so the user can see the emotions they selected.  
