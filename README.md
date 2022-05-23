@@ -11,7 +11,10 @@ This project was developed as part of the activities of the "Profesional Certifi
 1. If you want to run this project locally, clone it on your machine. Then drag and drop the HTML file into the browser.
 Otherwise click on the project demo to open the project on the borwser.
 
-2. Move the mouse over the screen to see the eyes chasing the .
+2. Move the mouse over the screen to see the eyes chasing the mouse.
+
+### Demo
+[Eyes Demo](https://ldfandinor.github.io/Eye_Exercise/)
 
 
 ## 🚀 Improvements:
